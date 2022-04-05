@@ -32,7 +32,7 @@ window.minsize(600,650)
 window.maxsize(600, 650)
 window.config( bg="#fffb96")
 window.title( "Miami 'Coolculator' ")
-icon = ImageTk.PhotoImage(Image.open('sexy_ayanami.png'))
+icon = ImageTk.PhotoImage(Image.open('80s.png'))
 window.iconphoto(False, icon) 
 
 
